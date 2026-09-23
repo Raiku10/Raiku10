@@ -170,7 +170,9 @@
       "volume": "",
       "last_updated": "1790120521",
       "groups": {
-        "": "/proxy/api/imgur/chapter/51-bOWogQ3"
+        "": [
+          ""
+        ]
       }
     },
     "52": {
