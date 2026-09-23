@@ -140,7 +140,29 @@
       "volume": "",
       "last_updated": "1790120513",
       "groups": {
-        "": "/proxy/api/imgur/chapter/aKZfql3"
+        "": [
+          "https://i.imgur.com/cpJ3E9N.jpeg",
+          "https://i.imgur.com/QVaTYR4.jpeg",
+          "https://i.imgur.com/DQoMgz3.jpeg",
+          "https://i.imgur.com/GLPttve.jpeg",
+          "https://i.imgur.com/ewUZOzR.jpeg",
+          "https://i.imgur.com/WvpQxfz.jpeg",
+          "https://i.imgur.com/epPboOJ.jpeg",
+          "https://i.imgur.com/rzsDF6J.jpeg",
+          "https://i.imgur.com/S29CwIH.jpeg",
+          "https://i.imgur.com/LJBnFEJ.jpeg",
+          "https://i.imgur.com/5du1ZgU.jpeg",
+          "https://i.imgur.com/H20GrE9.jpeg",
+          "https://i.imgur.com/hPXc1Dj.jpeg",
+          "https://i.imgur.com/UsrV56e.jpeg",
+          "https://i.imgur.com/gzV6exa.jpeg",
+          "https://i.imgur.com/1BsV26F.jpeg",
+          "https://i.imgur.com/oR9Jo0b.jpeg",
+          "https://i.imgur.com/JFqfrYX.jpeg",
+          "https://i.imgur.com/rbdlsFr.jpeg",
+          "https://i.imgur.com/biYenLv.jpeg",
+          "https://i.imgur.com/WSPpPtq.jpeg"
+        ]
       }
     },
     "51": {
@@ -148,9 +170,7 @@
       "volume": "",
       "last_updated": "1790120521",
       "groups": {
-        "": [
-          "https://imgchest.com/p/md7onoxw24p"
-        ]
+        "": "/proxy/api/imgur/chapter/51-bOWogQ3"
       }
     },
     "52": {
@@ -158,9 +178,7 @@
       "volume": "",
       "last_updated": "1790120534",
       "groups": {
-        "": [
-          "https://imgchest.com/p/wl7lvbr2xyx"
-        ]
+        "": "/proxy/api/imgur/chapter/52-q8gILxV"
       }
     },
     "58": {
